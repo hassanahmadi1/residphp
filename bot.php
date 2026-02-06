@@ -1,5 +1,4 @@
 <?php
-#@MerlinMax 
 //
 error_reporting(0);
 //
